@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48ebffaa-ecaa-4b24-ab88-5a76f4f2b69d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2j5lydCoWrgJU7FOHQ2sKgweJUQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.taskflow [clean].executor": "Run",
+    "Maven.taskflow [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TaskflowApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/namhoai/Workspace/support/taskflow_BE/be",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.45057473",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.TaskflowApplication">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="taskflow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thesis.taskflow.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskflowApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="taskflow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.taskflow.TaskflowApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ebffaa-ecaa-4b24-ab88-5a76f4f2b69d" name="Changes" comment="" />
+      <created>1720685075563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720685075563</updated>
+      <workItem from="1720685076687" duration="1392000" />
+      <workItem from="1721014146520" duration="9409000" />
+      <workItem from="1721060110649" duration="4979000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <option name="closed" value="true" />
+      <created>1721020902549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721020902549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init project">
+      <option name="closed" value="true" />
+      <created>1721021950245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721021950245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add user module">
+      <option name="closed" value="true" />
+      <created>1721022003026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022003026</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add authen">
+      <option name="closed" value="true" />
+      <created>1721022031580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022031580</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add change password">
+      <option name="closed" value="true" />
+      <created>1721022073616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022073616</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add task module">
+      <option name="closed" value="true" />
+      <created>1721022095975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022095975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix task module">
+      <option name="closed" value="true" />
+      <created>1721022132631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022132631</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add file &amp; folder">
+      <option name="closed" value="true" />
+      <created>1721022175440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022175440</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add comment for task">
+      <option name="closed" value="true" />
+      <created>1721022202913</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022202913</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add image service">
+      <option name="closed" value="true" />
+      <created>1721022223520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022223520</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update project logic">
+      <option name="closed" value="true" />
+      <created>1721022260189</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022260189</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix task member logic">
+      <option name="closed" value="true" />
+      <created>1721022305697</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022305697</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update crud logic">
+      <option name="closed" value="true" />
+      <created>1721022331856</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022331856</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add websocket &amp; notifi">
+      <option name="closed" value="true" />
+      <created>1721022354484</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022354484</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add statistic api &amp; fix project request">
+      <option name="closed" value="true" />
+      <created>1721022399606</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022399606</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add schedule algo">
+      <option name="closed" value="true" />
+      <created>1721022421326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022421326</updated>
+    </task>
+    <task id="LOCAL-00017" summary="init project with swagger">
+      <option name="closed" value="true" />
+      <created>1721023265301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721023265302</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add task module &amp; fix Dockerfile" />
+    <MESSAGE value="fix task module bug" />
+    <MESSAGE value="init project" />
+    <MESSAGE value="add user module" />
+    <MESSAGE value="add authen" />
+    <MESSAGE value="add change password" />
+    <MESSAGE value="add task module" />
+    <MESSAGE value="fix task module" />
+    <MESSAGE value="add file &amp; folder" />
+    <MESSAGE value="add comment for task" />
+    <MESSAGE value="add image service" />
+    <MESSAGE value="update project logic" />
+    <MESSAGE value="fix task member logic" />
+    <MESSAGE value="update crud logic" />
+    <MESSAGE value="add websocket &amp; notifi" />
+    <MESSAGE value="add statistic api &amp; fix project request" />
+    <MESSAGE value="add schedule algo" />
+    <MESSAGE value="init project with swagger" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project with swagger" />
+  </component>
+</project>
